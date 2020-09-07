@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class MsscCokeServiceApplicationTests {
 
     @Test
-    void contextLoads() {
+    void contextLoadss() {
     }
 
 }
